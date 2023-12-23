@@ -20,9 +20,9 @@ Replace the <USERNAME> with your GitHub username.
 
 # Open http://localhost:3000 to view it in your browser.
 
-/var/folders/4z/kmvywyxx1h33djdg03vdfc4h0000gn/T/TemporaryItems/NSIRD_screencaptureui_6YJ6GW/Screenshot 2023-12-23 at 12.02.10.png
 
 
+![Uploading Screenshot 2023-12-23 at 12.59.52.png…]()
 
 
 # Getting Started with Create React App
