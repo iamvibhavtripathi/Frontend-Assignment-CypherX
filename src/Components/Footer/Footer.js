@@ -1,19 +1,19 @@
 import React from "react";
-import { FaLinkedin, FaGithub} from 'react-icons/fa6';
+// import { FaLinkedin, FaGithub} from 'react-icons/fa6';
 import "./Footer.css";
 
 const Footer = () => {
     const socials = [{
       name: 'LinkedIn',
       link: 'https://www.linkedin.com/in/vibhav365/',
-      icon: <FaLinkedin />,
+      // icon: <FaLinkedin />,
       hoverColor: 'hover:text-blue-800',
       darkhoverColor: 'dark:hover:text-blue-800',
     },
     {
       name: 'Github',
       link: 'https://github.com/iamvibhavtripathi',
-      icon: <FaGithub />,
+      // icon: <FaGithub />,
       hoverColor: 'hover:text-black',
       darkhoverColor: 'dark:hover:text-white',
     },
